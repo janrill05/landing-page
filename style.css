@@ -311,3 +311,11 @@ p {
     border-color: steelblue;
     cursor: pointer;
 }
+
+/*   Footer   */
+footer p {
+    padding: 24px;
+    text-align: center;
+    color: black;
+    background-color: rgb(230, 250, 250);
+}
